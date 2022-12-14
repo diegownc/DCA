@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    cout << "Primer Programa en C++" << endl;
+    cout << "Mi nombre es Diego y este es mi primer Programa en C++" << endl;
     cout << "Hola Alicante" << endl;
     cout << "Adios Alicante" << endl;
     cout << "Se ha terminado el programa" << endl;
